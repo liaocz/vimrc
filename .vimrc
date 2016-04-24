@@ -17,6 +17,7 @@ colorscheme ron
 
 
 
+imap jj <esc> 
 
 "set fencs=utf-8,ucs-bom,shift-jis,gb18030,gbk,gb2312,cp936
 "set termencoding=utf-8
